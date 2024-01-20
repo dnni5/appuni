@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253213444482",
+    "project_id": "appuni-b1756",
+    "storage_bucket": "appuni-b1756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253213444482:android:3897cf0da7682c6b63a79b",
+        "android_client_info": {
+          "package_name": "com.ds.appuni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhED_xv09cb53RXgnmXhco_4FjkdJc24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253213444482:android:629d16623911649b63a79b",
+        "android_client_info": {
+          "package_name": "com.ds.uni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhED_xv09cb53RXgnmXhco_4FjkdJc24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

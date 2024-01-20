@@ -1,0 +1,6 @@
+package com.ds.appuni
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
